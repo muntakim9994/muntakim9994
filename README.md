@@ -6,7 +6,7 @@
 I am a learning developer.I am learning on web development.However, I have some repositories you can check out if you want
 
 
- Skills: <br>
+   Skills: <br>
 ♦️HTML <br>
 ♦️CSS
 
