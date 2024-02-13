@@ -3,17 +3,18 @@
 #### Student
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a learning developer.I am learning on web development.However, I have some repositories you can check out if you want
 
-Skills: <br>
+
+ Skills: <br>
 ♦️HTML <br>
 ♦️CSS
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript,PHP
 - 📫 You can contact with me messaging in my social media
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muntakim9994) Facebook <br> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muntakim9994) <br> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muntakim9994) <br> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muntakim9994/) <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/muntakim9994)
